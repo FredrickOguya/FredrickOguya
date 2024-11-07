@@ -5,7 +5,7 @@ Hi there! I’m Fredrick Onyango, a passionate software engineer and web develop
 🔭 I’m currently learning software development on PLP
 🌱 I’m currently learning AI-generated text detection
 👯 I’m looking to collaborate on Open Source Projects
-💬 Ask me about HTML, CSS, SQL, HTML, ER diagrams
+💬 Ask me about HTML, CSS, JavaScript, SQL, C, ER diagrams
 📫 How to reach me: onyangofredrickoguya@gmail.com
 ⚡ Fun fact: I love coding and cocoa! ☕
 
@@ -31,5 +31,4 @@ Hi there! I’m Fredrick Onyango, a passionate software engineer and web develop
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/fredricode) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/onyangofredrickoguya@gmail.com) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Fredrickonyango) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/onyangofredrick) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
