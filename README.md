@@ -2,11 +2,11 @@
 Hi there! I’m Fredrick Onyango, a passionate software engineer and web developer from Machakos, Kenya. I am proefficient in Databases both Relational and Non-relation (MongoDb, MySQL and PostgreSQL), GraphQL, React-Native, Express. I use NextJs for Web Development.
 
 🎓 I am a Computer Science major at Kisii University
-🔭 I’m currently Machine Learning
+🔭 I’m currently Learning Machine Learning
 👯 I’m looking to collaborate on Open Source Projects
 💬 Ask me about TypeScript, JavaScript, SQL, C, ER diagrams, GraphQl and ReactNative.
 📫 How to reach me: onyangofredrickoguya@gmail.com
-⚡ Fun fact: I love learning. [Full Stack Open By University of Helsinki is The Very good and I am proud to have done it.](https://fullstackopen.com/en/)
+⚡ Fun fact: I love learning. [Full Stack Open By University of Helsinki good and I am proud to have done it.](https://fullstackopen.com/en/)
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/fredricode) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fredrickonyangooguya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fredrickonyangooguya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/onyango-fredrick-0220a4305/) 
