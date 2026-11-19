@@ -9,7 +9,7 @@ Hi there! I’m Fredrick Onyango, a passionate software engineer and web develop
 ⚡ Fun fact: I love learning. [Full Stack Open By University of Helsinki good and I am proud to have done it.](https://fullstackopen.com/en/)
 
 ## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/fredricode) [![Facebook]  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/onyango-fredrick-0220a4305/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/fredricode)[![LinkedIn]https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/onyango-fredrick-0220a4305/) 
 
 # 💻Tech Stack
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
